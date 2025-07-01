@@ -1,0 +1,17 @@
+Menu = {
+'Latte':{'ingredients':{'milk':200,
+             'water':500,
+             'coffe_beans':100},
+            'cost':150
+             },
+'Espresso':{'ingredients':{'milk':200,
+             'water':300,
+             'coffe_beans':100},
+             'cost':200},
+'Capuccino': {'ingredients':{'milk': 200,
+                 'water': 300,
+                 'coffe_beans': 100},
+                 'cost': 200},
+
+}
+print(Menu)
